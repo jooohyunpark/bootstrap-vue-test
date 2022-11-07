@@ -1,3 +1,10 @@
+$container-max-widths: (
+  sm: 400px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+);
+
 // Custom Bootstrap variable overrides go first
 $grid-breakpoints: (
   xs: 0,
@@ -6,8 +13,6 @@ $grid-breakpoints: (
   lg: 992px,
   xl: 1500px,
 );
-
-$enable-rounded: false;
 
 // Then include the following
 @import "bootstrap/scss/bootstrap.scss";
