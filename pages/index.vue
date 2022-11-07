@@ -2,12 +2,13 @@
   <div class="page">
     <b-container>
       <b-row>
-        <b-col cols="12" md="6" lg="4"><div class="box"></div></b-col>
-        <b-col cols="12" md="6" lg="4"><div class="box"></div></b-col>
-        <b-col cols="12" md="6" lg="4"><div class="box"></div></b-col>
-        <b-col cols="12" md="6" lg="4"><div class="box"></div></b-col>
-        <b-col cols="12" md="6" lg="4"><div class="box"></div></b-col>
-        <b-col cols="12" md="6" lg="4"><div class="box"></div></b-col>
+        <b-col cols="12" md="6" lg="4" xl="3"><div class="box"></div></b-col>
+        <b-col cols="12" md="6" lg="4" xl="3"><div class="box"></div></b-col>
+        <b-col cols="12" md="6" lg="4" xl="3"><div class="box"></div></b-col>
+        <b-col cols="12" md="6" lg="4" xl="3"><div class="box"></div></b-col>
+        <b-col cols="12" md="6" lg="4" xl="3"><div class="box"></div></b-col>
+        <b-col cols="12" md="6" lg="4" xl="3"><div class="box"></div></b-col>
+        <b-col cols="12" md="6" lg="4" xl="3"><div class="box"></div></b-col>
       </b-row>
     </b-container>
   </div>
