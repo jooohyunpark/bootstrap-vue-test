@@ -52,7 +52,7 @@ export default {
 
   .box {
     height: 50px;
-    background: gray;
+    background: #181818;
     width: 100%;
     margin-bottom: 40px;
   }
